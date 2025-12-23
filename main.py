@@ -1,0 +1,16 @@
+import turtle
+turtle.title("Star Drawing Turtle")
+turtle.bgcolor("gold")
+turtle_instance=turtle.Turtle()
+
+turtle_instance.left(75)
+turtle_instance.forward(100)
+turtle_instance.right(150)
+turtle_instance.forward(100)
+turtle_instance.right(150)
+turtle_instance.forward(100)
+turtle_instance.right(135)
+turtle_instance.forward(100)
+turtle_instance.right(142)
+turtle_instance.forward(100)
+turtle.done()
